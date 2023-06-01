@@ -17,7 +17,7 @@ const Footer = () => {
           <h2>Desarrolladores</h2>
           <ul>
             <li>Josttin Pérez</li>
-            <li>Sebastián Rodriguez</li>
+            <li>Sebastián Herrera</li>
             <li>Andrea Domínguez</li>
             <li>Natalia Romerin</li>
             <li>Sebastián de la Rosa</li>
