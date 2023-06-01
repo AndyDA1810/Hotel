@@ -251,7 +251,6 @@ const Registro = (props) => {
                   <b>Comentarios:</b> {elemento.comentarios}<br></br>
                   <button className="btn btn-success float-end mx-2" onClick={()=>editar(elemento)} >Editar</button>
                   <button className="btn btn-danger float-end mx-2" onClick={()=>eliminarDato(elemento.id)}>Eliminar</button>
-<button className="btn btn-danger float-end mx-2" onClick={()=>eliminarDato(elemento.id)}>Eliminar</button>
                   </li>
                 )
               )
