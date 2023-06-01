@@ -26,7 +26,7 @@ const Footer = () => {
         <div class="contact-info">
           <h2>Contactanos</h2>
           <ul>
-            <li><i class="fab fa-whatsapp"></i> +1 (555) 555-5555</li>
+            <li><i class="fab fa-whatsapp"></i> 3017029648 </li>
             <li><i class="fab fa-facebook"></i> <a href="#">Fantasy Hotel</a></li>
             <li><i class="far fa-envelope"></i> <a href="mailto:info@fantasyhotel.com">info@fantasyhotel.com</a></li>
           </ul>
